@@ -21,4 +21,4 @@ A VR recreation of the classic Connect Four game built in Unity using XR Interac
 
 Made with Unity + XR Toolkit 🕶️🛠️
 
-<img src="https://dl.dropboxusercontent.com/scl/fi/7s02vxuie71mdzoz7bsik/Demo.gif?rlkey=zf0l1ar669e7ubmfah8s63hrg&st=gdfp48ei&raw=1" width="25%" height="10%" style="border-radius:8px"/>
+<img src="https://github.com/Arjun-5/portfolio/blob/master/assets/demo/Demo.gif" width="25%" height="10%" style="border-radius:8px"/>

@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/69154c05-843f-4d56-b659-6f7d8193e6d1" alt="Logo" width="150"/>
+<img src="https://github.com/Arjun-5/PlotFourVR/blob/main/Assets/Design%20Files/Logo.svg" alt="Logo" width="150"/>
 
 # VR Plot Four 🎮🟡🔴
 

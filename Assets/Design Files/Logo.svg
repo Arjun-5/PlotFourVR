@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="Logo.png"
+   inkscape:export-xdpi="90.887573"
+   inkscape:export-ydpi="90.887573"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.6752354"
+     inkscape:cx="139.68186"
+     inkscape:cy="185.34709"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect248"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <filter
+       inkscape:label="Button"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11"
+       x="-0.89543082"
+       y="-0.90327334"
+       width="2.7908616"
+       height="2.8065467">
+      <feGaussianBlur
+         stdDeviation="2.3 0"
+         in="SourceAlpha"
+         result="result0"
+         id="feGaussianBlur8" />
+      <feMorphology
+         in="SourceAlpha"
+         radius="6.5"
+         result="result1"
+         id="feMorphology8" />
+      <feGaussianBlur
+         stdDeviation="7"
+         in="result1"
+         id="feGaussianBlur9" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91"
+         id="feColorMatrix9" />
+      <feComposite
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91"
+         id="feComposite9" />
+      <feDiffuseLighting
+         surfaceScale="10"
+         id="feDiffuseLighting9">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight9" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="SourceGraphic"
+         mode="multiply"
+         id="feBlend9" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="result3"
+         id="feComposite10" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="result3"
+         result="result4"
+         id="feGaussianBlur10" />
+      <feComposite
+         in2="result3"
+         operator="atop"
+         id="feComposite11"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11" />
+      <feGaussianBlur
+         id="feGaussianBlur11"
+         result="result6"
+         stdDeviation="8"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite12"
+         in2="fbSourceGraphic"
+         in="result6"
+         operator="xor"
+         result="result10" />
+      <feGaussianBlur
+         id="feGaussianBlur12"
+         result="result2"
+         stdDeviation="8" />
+      <feComposite
+         id="feComposite13"
+         in2="fbSourceGraphic"
+         operator="atop"
+         in="result10"
+         result="result91" />
+      <feComposite
+         id="feComposite14"
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91" />
+      <feGaussianBlur
+         id="feGaussianBlur14"
+         in="result4"
+         result="result3"
+         stdDeviation="4" />
+      <feSpecularLighting
+         id="feSpecularLighting14"
+         result="result5"
+         specularExponent="5"
+         specularConstant="1.10000002"
+         surfaceScale="18">
+        <feDistantLight
+           id="feDistantLight14"
+           azimuth="235"
+           elevation="55" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite15"
+         in="result3"
+         k3="1.1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result7"
+         in2="result5"
+         k1="0.5"
+         k4="0" />
+      <feGaussianBlur
+         id="feGaussianBlur15"
+         in="result7"
+         result="result8"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite16"
+         in="result8"
+         operator="atop"
+         in2="fbSourceGraphic"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix69" />
+      <feBlend
+         id="feBlend69"
+         in2="fbSourceGraphic"
+         result="result1"
+         mode="screen"
+         in="fbSourceGraphic" />
+      <feGaussianBlur
+         id="feGaussianBlur69"
+         stdDeviation="2"
+         result="result6" />
+      <feComposite
+         id="feComposite69"
+         operator="xor"
+         in="result6"
+         in2="result1"
+         result="result7" />
+      <feComposite
+         id="feComposite70"
+         result="result4"
+         in="result7"
+         operator="xor"
+         in2="result7" />
+      <feGaussianBlur
+         id="feGaussianBlur70"
+         result="result3"
+         stdDeviation="3"
+         in="result4" />
+      <feSpecularLighting
+         id="feSpecularLighting70"
+         result="result5"
+         specularExponent="55"
+         specularConstant="1.5"
+         surfaceScale="6"
+         in="result3">
+        <fePointLight
+           id="fePointLight70"
+           z="20000"
+           y="-8000"
+           x="-5000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite71"
+         in="result3"
+         k3="1"
+         k2="1.5"
+         operator="arithmetic"
+         in2="fbSourceGraphic"
+         result="result92"
+         k1="0"
+         k4="0" />
+      <feComposite
+         id="feComposite72"
+         in="result5"
+         operator="atop"
+         in2="result92"
+         result="result93" />
+      <feBlend
+         id="feBlend72"
+         mode="multiply"
+         in2="result93"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix72" />
+      <feBlend
+         id="feBlend73"
+         in2="fbSourceGraphic"
+         result="result5"
+         mode="multiply"
+         in="result10" />
+      <feComposite
+         id="feComposite73"
+         in2="fbSourceGraphic"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="over" />
+      <feGaussianBlur
+         id="feGaussianBlur73"
+         stdDeviation="3"
+         result="result10" />
+      <feGaussianBlur
+         id="feGaussianBlur74"
+         result="result9"
+         stdDeviation="9" />
+      <feSpecularLighting
+         id="feSpecularLighting74"
+         in="result9"
+         result="result1"
+         lighting-color="#ffffff"
+         surfaceScale="1"
+         specularConstant="2"
+         specularExponent="60">
+        <fePointLight
+           id="fePointLight74"
+           x="-5000"
+           y="-10000"
+           z="20000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite74"
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in" />
+      <feGaussianBlur
+         id="feGaussianBlur75"
+         result="result9"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite75"
+         in="result9"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="0.8"
+         in2="fbSourceGraphic"
+         k1="0"
+         k4="0" />
+      <feBlend
+         id="feBlend75"
+         in="result4"
+         mode="multiply"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix75" />
+      <feGaussianBlur
+         id="feGaussianBlur76"
+         result="result6"
+         stdDeviation="8"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite76"
+         in2="fbSourceGraphic"
+         in="result6"
+         operator="xor"
+         result="result10" />
+      <feGaussianBlur
+         id="feGaussianBlur77"
+         result="result2"
+         stdDeviation="8" />
+      <feComposite
+         id="feComposite77"
+         in2="fbSourceGraphic"
+         operator="atop"
+         in="result10"
+         result="result91" />
+      <feComposite
+         id="feComposite78"
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91" />
+      <feGaussianBlur
+         id="feGaussianBlur78"
+         in="result4"
+         result="result3"
+         stdDeviation="4" />
+      <feSpecularLighting
+         id="feSpecularLighting78"
+         result="result5"
+         specularExponent="5"
+         specularConstant="1.10000002"
+         surfaceScale="18">
+        <feDistantLight
+           id="feDistantLight78"
+           azimuth="235"
+           elevation="55" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite79"
+         in="result3"
+         k3="1.1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result7"
+         in2="result5"
+         k1="0.5"
+         k4="0" />
+      <feGaussianBlur
+         id="feGaussianBlur79"
+         in="result7"
+         result="result8"
+         stdDeviation="1" />
+      <feComposite
+         id="feComposite80"
+         in="result8"
+         operator="atop"
+         in2="fbSourceGraphic"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix80" />
+      <feGaussianBlur
+         id="feGaussianBlur80"
+         result="result1"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="2.2" />
+      <feSpecularLighting
+         id="feSpecularLighting80"
+         result="result0"
+         specularExponent="18.10000038"
+         specularConstant="2"
+         surfaceScale="5">
+        <feDistantLight
+           id="feDistantLight80"
+           azimuth="225"
+           elevation="24" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite81"
+         result="result6"
+         operator="in"
+         in2="fbSourceGraphicAlpha" />
+      <feMorphology
+         id="feMorphology81"
+         radius="5.7"
+         operator="dilate" />
+      <feGaussianBlur
+         id="feGaussianBlur81"
+         result="result11"
+         stdDeviation="5.7" />
+      <feDiffuseLighting
+         id="feDiffuseLighting81"
+         surfaceScale="5"
+         result="result3"
+         diffuseConstant="2"
+         in="result1">
+        <feDistantLight
+           id="feDistantLight81"
+           elevation="25"
+           azimuth="225" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend81"
+         result="result7"
+         mode="multiply"
+         in="result3"
+         in2="fbSourceGraphic" />
+      <feComposite
+         id="feComposite82"
+         in="result7"
+         operator="in"
+         in2="fbSourceGraphicAlpha"
+         result="result91" />
+      <feBlend
+         id="feBlend82"
+         result="result9"
+         mode="lighten"
+         in="result6"
+         in2="result91" />
+      <feComposite
+         id="feComposite83"
+         in="result11"
+         in2="result9"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix83" />
+      <feGaussianBlur
+         id="feGaussianBlur83"
+         stdDeviation="1"
+         result="result1"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite84"
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in" />
+      <feGaussianBlur
+         id="feGaussianBlur84"
+         stdDeviation="7"
+         result="result6"
+         in="result4" />
+      <feComposite
+         id="feComposite85"
+         operator="over"
+         in="result6"
+         in2="result4"
+         result="result8" />
+      <feComposite
+         id="feComposite86"
+         operator="in"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8" />
+      <feSpecularLighting
+         id="feSpecularLighting86"
+         specularExponent="45"
+         specularConstant="2"
+         surfaceScale="2.5"
+         lighting-color="#ffffff"
+         result="result1"
+         in="fbSourceGraphic">
+        <fePointLight
+           id="fePointLight86"
+           z="20000"
+           y="-10000"
+           x="-5000" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite87"
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic" />
+      <feComposite
+         id="feComposite88"
+         k3="1.1"
+         k2="1.1"
+         operator="arithmetic"
+         result="result14"
+         in="fbSourceGraphic"
+         in2="result2"
+         k1="0"
+         k4="0" />
+      <feGaussianBlur
+         id="feGaussianBlur88"
+         stdDeviation="0.7"
+         result="result7"
+         in="result14" />
+      <feComposite
+         id="feComposite89"
+         operator="over"
+         in="result7"
+         result="result9" />
+      <feBlend
+         id="feBlend89"
+         mode="screen"
+         in2="result9"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix89" />
+      <feGaussianBlur
+         id="feGaussianBlur89"
+         in="fbSourceGraphic"
+         stdDeviation="6"
+         result="blur" />
+      <feDiffuseLighting
+         id="feDiffuseLighting89"
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffdb58"
+         result="diffuse">
+        <feDistantLight
+           id="feDistantLight89"
+           elevation="25"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite90"
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         id="feComposite91"
+         in="composite1"
+         in2="fbSourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="fbSourceGraphic"
+         k2="0"
+         k4="0" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix91" />
+      <feGaussianBlur
+         id="feGaussianBlur91"
+         stdDeviation="2.3"
+         in="fbSourceGraphicAlpha"
+         result="result0" />
+      <feMorphology
+         id="feMorphology91"
+         in="fbSourceGraphicAlpha"
+         radius="6.5"
+         result="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur92"
+         stdDeviation="7"
+         in="result1" />
+      <feColorMatrix
+         id="feColorMatrix92"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91" />
+      <feComposite
+         id="feComposite92"
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91" />
+      <feDiffuseLighting
+         id="feDiffuseLighting92"
+         surfaceScale="10">
+        <feDistantLight
+           id="feDistantLight92"
+           azimuth="225"
+           elevation="45" />
+      </feDiffuseLighting>
+      <feBlend
+         id="feBlend92"
+         in2="fbSourceGraphic"
+         mode="multiply" />
+      <feComposite
+         id="feComposite93"
+         in2="fbSourceGraphicAlpha"
+         operator="in"
+         result="result3" />
+      <feGaussianBlur
+         id="feGaussianBlur93"
+         stdDeviation="1"
+         in="result3"
+         result="result4" />
+      <feComposite
+         id="feComposite94"
+         in2="result3"
+         operator="atop" />
+    </filter>
+    <filter
+       inkscape:label="Combined Lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       style="color-interpolation-filters:sRGB;"
+       id="filter183"
+       x="-0.24375"
+       y="-0.24375"
+       width="1.4875"
+       height="1.4875">
+      <feGaussianBlur
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0"
+         id="feGaussianBlur181" />
+      <feDiffuseLighting
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5"
+         id="feDiffuseLighting181">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight181" />
+      </feDiffuseLighting>
+      <feComposite
+         k1="1.4"
+         in2="SourceGraphic"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic"
+         k2="0"
+         k3="0"
+         k4="0"
+         id="feComposite181" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur182" />
+      <feSpecularLighting
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting182">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight182" />
+      </feSpecularLighting>
+      <feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         in="fbSourceGraphic"
+         in2="result1"
+         result="result4"
+         k1="0"
+         k4="0"
+         id="feComposite182" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="result4"
+         result="result6"
+         id="feGaussianBlur183" />
+      <feComposite
+         operator="in"
+         result="result2"
+         in2="SourceGraphic"
+         in="result6"
+         id="feComposite183" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Diffuse Light"
+       id="filter239"
+       x="-0.028125"
+       y="0"
+       width="1.05625"
+       height="1">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="6 0"
+         result="blur"
+         id="feGaussianBlur238" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffdb58"
+         result="diffuse"
+         id="feDiffuseLighting238">
+        <feDistantLight
+           elevation="25"
+           azimuth="235"
+           id="feDistantLight238" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite238"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite239"
+         k2="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Specular Light"
+       id="filter248"
+       x="-0.036312416"
+       y="0"
+       width="1.0726248"
+       height="1">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="6 0"
+         result="blur"
+         id="feGaussianBlur247" />
+      <feSpecularLighting
+         in="blur"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="10"
+         lighting-color="#ffffff"
+         result="specular"
+         id="feSpecularLighting247">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight247" />
+      </feSpecularLighting>
+      <feComposite
+         in="specular"
+         in2="SourceGraphic"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="composite1"
+         id="feComposite247"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in="composite1"
+         in2="SourceAlpha"
+         operator="in"
+         result="composite2"
+         id="feComposite248" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient1"
+       gradientUnits="userSpaceOnUse"
+       x="-512"
+       y="0">
+      <meshrow
+         id="meshrow1">
+        <meshpatch
+           id="meshpatch1">
+          <stop
+             path="c 170.667,0  341.333,0  512,0"
+             style="stop-color:#5a08ca;stop-opacity:1"
+             id="stop1" />
+          <stop
+             path="c 0,170.667  0,341.333  0,512"
+             style="stop-color:#531a5b;stop-opacity:1"
+             id="stop2" />
+          <stop
+             path="c -170.667,0  -341.333,0  -512,0"
+             style="stop-color:#1060d3;stop-opacity:1"
+             id="stop3" />
+          <stop
+             path="c 0,-170.667  0,-341.333  0,-512"
+             style="stop-color:#451812;stop-opacity:1"
+             id="stop4" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient7"
+       gradientUnits="userSpaceOnUse"
+       x="47.426208"
+       y="378.07663">
+      <meshrow
+         id="meshrow7">
+        <meshpatch
+           id="meshpatch7">
+          <stop
+             path="c 134.3,0  268.601,0  402.901,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop7" />
+          <stop
+             path="c 0,31.7701  0,63.5401  0,95.3102"
+             style="stop-color:#67ccf1;stop-opacity:1"
+             id="stop8" />
+          <stop
+             path="c -134.3,0  -268.601,0  -402.901,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop9" />
+          <stop
+             path="c 0,-31.7701  0,-63.5401  0,-95.3102"
+             style="stop-color:#67ccf1;stop-opacity:1"
+             id="stop10" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#meshgradient1);fill-opacity:1;stroke-width:5.10236;filter:url(#filter239)"
+       id="rect1"
+       width="512"
+       height="512"
+       x="-512"
+       y="0"
+       rx="25"
+       ry="25"
+       transform="scale(-1,1)"
+       inkscape:label="rect1" />
+    <text
+       xml:space="preserve"
+       style="font-size:100px;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#meshgradient7);fill-opacity:1;stroke-width:2.397;stroke-dasharray:none;filter:url(#filter248)"
+       id="text241"
+       transform="translate(18.572135,18.572135)"><textPath
+         xlink:href="#path248"
+         id="textPath248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#efc800;fill-opacity:1">Plot Four</textPath></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke-width:2.397;stroke-dasharray:none"
+       d="m 44.741962,297.99835 c 24.481449,3.65815 48.962413,7.31623 88.499338,13.92917 39.53693,6.61293 94.12557,16.18002 138.86843,14.4916 44.74286,-1.68841 79.63455,-14.63211 116.77957,-14.63211 37.14502,0 76.53888,12.9437 101.44292,33.48602 24.90404,20.54232 35.31548,48.68136 45.72713,76.82095"
+       id="path248"
+       inkscape:path-effect="#path-effect248"
+       inkscape:original-d="m 44.741962,297.99835 c 24.481449,3.65815 48.962412,7.31623 73.444358,10.97445 54.59191,9.56765 109.18055,19.13473 163.77246,28.70239 34.89381,-12.94448 69.7855,-25.88818 104.67931,-38.83266 39.39623,12.94448 78.79009,25.88818 118.18631,38.83266 10.41186,28.14016 20.8233,56.2792 31.23495,84.41879"
+       sodipodi:nodetypes="cccccc"
+       transform="translate(-6.7535038,146.04452)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13"
+       width="40"
+       height="40"
+       x="66.259346"
+       y="57.902309"
+       inkscape:tile-cx="86.259346"
+       inkscape:tile-cy="77.902309"
+       inkscape:tile-w="43"
+       inkscape:tile-h="43"
+       inkscape:tile-x0="64.759346"
+       inkscape:tile-y0="56.402309" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       id="use137"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,43)"
+       id="use138"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,86)"
+       id="use139"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,129)"
+       id="use140"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,172)"
+       id="use141"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,215)"
+       id="use142"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(0,258)"
+       id="use143"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86)"
+       id="use144"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,43)"
+       id="use145"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,86)"
+       id="use146"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,129)"
+       id="use147"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,172)"
+       id="use148"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,215)"
+       id="use149"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(43.86,258)"
+       id="use150"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72)"
+       id="use151"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,43)"
+       id="use152"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,86)"
+       id="use153"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,129)"
+       id="use154"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,172)"
+       id="use155"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,215)"
+       id="use156"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(87.72,258)"
+       id="use157"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58)"
+       id="use158"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,43)"
+       id="use159"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,86)"
+       id="use160"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,129)"
+       id="use161"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,172)"
+       id="use162"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,215)"
+       id="use163"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(131.58,258)"
+       id="use164"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44)"
+       id="use165"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,43)"
+       id="use166"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,86)"
+       id="use167"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,129)"
+       id="use168"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,172)"
+       id="use169"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,215)"
+       id="use170"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(175.44,258)"
+       id="use171"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3)"
+       id="use172"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,43)"
+       id="use173"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,86)"
+       id="use174"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,129)"
+       id="use175"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,172)"
+       id="use176"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,215)"
+       id="use177"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(219.3,258)"
+       id="use178"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16)"
+       id="use179"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,43)"
+       id="use180"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,86)"
+       id="use181"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,129)"
+       id="use182"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,172)"
+       id="use183"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,215)"
+       id="use184"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(263.16,258)"
+       id="use185"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02)"
+       id="use186"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,43)"
+       id="use187"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,86)"
+       id="use188"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,129)"
+       id="use189"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,172)"
+       id="use190"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,215)"
+       id="use191"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(307.02,258)"
+       id="use192"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88)"
+       id="use193"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,43)"
+       id="use194"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,86)"
+       id="use195"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,129)"
+       id="use196"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,172)"
+       id="use197"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,215)"
+       id="use198"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect13"
+       xlink:href="#rect13"
+       transform="translate(350.88,258)"
+       id="use199"
+       style="stroke:#ffffff;stroke-opacity:1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path199"
+       cx="85.958076"
+       cy="77.899506"
+       r="15" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle199"
+       cx="436.93854"
+       cy="77.121529"
+       r="15" />
+    <circle
+       style="fill:#0400ff;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle200"
+       cx="86.642426"
+       cy="335.93781"
+       r="15" />
+    <circle
+       style="fill:#0400ff;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle200-8"
+       cx="260.77023"
+       cy="77.536751"
+       r="15" />
+    <circle
+       style="fill:#0400ff;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle200-8-5"
+       cx="436.95178"
+       cy="206.33511"
+       r="15" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle201"
+       cx="84.998604"
+       cy="207.26083"
+       r="15" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle202"
+       cx="435.12201"
+       cy="333.91049"
+       r="15" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle203"
+       cx="261.28928"
+       cy="207.2887"
+       r="15" />
+    <circle
+       style="fill:#0400ff;fill-opacity:1;stroke:#ff9a00;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle204"
+       cx="261.11661"
+       cy="336.20004"
+       r="15" />
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>

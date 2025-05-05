@@ -14,7 +14,7 @@ A VR recreation of the classic Connect Four game built in Unity using XR Interac
 - Win condition detection in all 
 - Selector row prefab for intuitive column selection
 - Game state machine with turn-based logic and UI feedback
-- Smooth multiplayer turn handling
+- Smooth local multiplayer turn handling
 - Draw detection when the board is full
 
 -------
